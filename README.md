@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jenishbvm425
-- 👀 I’m interested in software development and Data engineer 
+- 👀 I’m interested in Data engineer 
 - 🌱 I’m currently learning B.tech in Information technology 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
