@@ -24,6 +24,7 @@ Hi, I'm Jenish Patel! I'm passionate about technology and mainly Data Scince, Ma
 
 This include in my repository
 - [Netflix clone] :- https://github.com/jenishbvm425/Netflix_Clone
+- [Indian Men's Cricket stats] :- https://github.com/jenishbvm425/Indian-Men-s-cricket-stats
 
 ## Connect With Me
 
