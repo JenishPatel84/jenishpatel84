@@ -23,7 +23,7 @@ Hi, I'm Jenish Patel! I'm passionate about technology and mainly Data Scince, Ma
 ## Projects
 
 This include in my repository
-- [Netflix clone] 
+- [Netflix clone] :- https://github.com/jenishbvm425/Netflix_Clone
 
 ## Connect With Me
 
