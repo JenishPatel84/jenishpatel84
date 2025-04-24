@@ -22,7 +22,8 @@ Hi, I'm Jenish Patel! I'm passionate about technology and mainly Data Scince, Ma
 
 ## Projects
 
-- [Netflix clone] (.)
+This include in my repository
+- [Netflix clone] 
 
 ## Connect With Me
 
