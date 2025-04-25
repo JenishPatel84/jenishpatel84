@@ -8,11 +8,8 @@ Hi, I'm Jenish Patel! I'm passionate about technology and mainly Data Scince, Ma
 
 ## What You'll Find Here
 
-- Programming Exercises – C, C++, Python basics, and more
+- Programming Exercises – C
 - Web Development Projects – HTML, CSS, and intro to JavaScript
-- Database Practice – SQL queries, ER diagrams
-- Mini Projects – Small personal projects and experiments
-- Notes & Resources – My personal study notes and reference materials
 
 ## Current Subjects I'm Studying
 
