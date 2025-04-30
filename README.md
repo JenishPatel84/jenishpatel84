@@ -1,4 +1,4 @@
-# My IT Journey - Portfolio
+#  My repository 
 
 Welcome to my GitHub repository! I'm currently a 1st-year Information Technology student, and this is where I share everything I'm learning, building, and exploring.
 
