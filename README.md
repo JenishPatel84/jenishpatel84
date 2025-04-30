@@ -20,9 +20,9 @@ Hi, I'm Jenish Patel! I'm passionate about technology and mainly Data Scince, Ma
 ## Projects
 
 This include in my repository
-- [Netflix clone] :- https://github.com/jenishbvm425/Netflix_Clone
-- [Indian Men's Cricket stats] :- https://github.com/jenishbvm425/Indian-Men-s-Cricket-stats
-- [Tic Tac Toe game] :- https://github.com/jenishbvm425/Tic-Tac-Toe-game
+- [Netflix clone] :- https://github.com/JenishPatel84/Netflix_Clone
+- [Indian Men's Cricket stats] :- https://github.com/JenishPatel84/Indian-Men-s-Cricket-stats
+- [Tic Tac Toe game] :- https://github.com/JenishPatel84/Tic-Tac-Toe-game
 
 ## Connect With Me
 
