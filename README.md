@@ -13,8 +13,9 @@ Hi, I'm Jenish Patel! I'm passionate about technology and mainly Data Scince, Ma
 
 ## Current Subjects I'm Studying
 
-- Introduction to Programming
+- Introduction to Programming c
 - Web Technologies
+- C++ (Data structure and Algorithms)
 
 
 ## Projects
@@ -28,5 +29,5 @@ This include in my repository
 
 - Instagram: (https://www.instagram.com/the_jenish_84kp?igsh=c3podXNkajBhdmw2)
 - LinkedIn: (https://www.linkedin.com/in/jenish-patel-360baa325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Email: 24it425@bvmengineering.ac.in
+- Email:  jenishsomabhaipatel@gmail.com 
 
