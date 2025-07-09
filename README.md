@@ -6,16 +6,14 @@ Welcome to my GitHub repository! I'm currently a 1st-year Information Technology
 
 Hi, I'm Jenish Patel! I'm passionate about technology and mainly Data Scince, Machine Learning and Gen AI with code. This repository is a personal archive of my growth through my learning in IT.
 
-## What You'll Find Here
-
-- Programming Exercises – C
-- Web Development Projects – HTML, CSS, and intro to JavaScript
 
 ## Current Subjects I'm Studying
 
 - Introduction to Programming c
 - Web Technologies
 - C++ (Data structure and Algorithms)
+- Database Management system
+- Computer Networks
 
 
 ## Projects
