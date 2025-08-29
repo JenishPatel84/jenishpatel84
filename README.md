@@ -9,7 +9,6 @@ Hi, I'm Jenish Patel! I'm passionate about technology and mainly Data Scince, Ma
 
 ## Current Subjects I'm Studying
 
-- Introduction to Programming c
 - Web Technologies
 - C++ (Data structure and Algorithms)
 - Database Management system
