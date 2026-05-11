@@ -1,6 +1,6 @@
 #  My repository 
 
-Welcome to my GitHub repository! I'm currently a 1st-year Information Technology student, and this is where I share everything I'm learning, building, and exploring.
+Welcome to my GitHub repository! I'm currently a 3rd-year Information Technology student, and this is where I share everything I'm learning, building, and exploring.
 
 ## About Me
 
@@ -9,10 +9,9 @@ Hi, I'm Jenish Patel! I'm passionate about technology and mainly Data Scince, Ma
 
 ## Current Subjects I'm Studying
 
-- Web Technologies
+- Web Development
 - C++ (Data structure and Algorithms)
-- Database Management system
-- Computer Networks
+- Python Programming
 
 
 ## Projects
