@@ -6,22 +6,6 @@ Welcome to my GitHub repository! I'm currently a 3rd-year Information Technology
 
 Hi, I'm Jenish Patel! I'm passionate about technology and mainly Data Scince, Machine Learning and Gen AI with code. This repository is a personal archive of my growth through my learning in IT.
 
-
-## Current Subjects I'm Studying
-
-- Web Development
-- C++ (Data structure and Algorithms)
-- Python Programming
-
-
-## Projects
-
-This include in my repository
-- [Netflix clone] :- https://github.com/JenishPatel84/Netflix_Clone
-- [Indian Men's Cricket stats] :- https://github.com/JenishPatel84/Indian-Men-s-Cricket-stats
-- [Tic Tac Toe game] :- https://github.com/JenishPatel84/Tic-Tac-Toe-game
-- [Online-Quiz_system] :- https://github.com/JenishPatel84/Online-Quiz-System
-
 ## Connect With Me
 
 - Instagram: (https://www.instagram.com/the_jenish_84kp?igsh=c3podXNkajBhdmw2)
