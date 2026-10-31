@@ -85,8 +85,6 @@ public:
 | 📝 [**Online Quiz System**](https://github.com/JenishPatel84/Online-Quiz-System) | Interactive quiz app with a responsive UI | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | 🧑‍🏫 [**Online Quiz Website**](https://github.com/JenishPatel84/Online-Quiz-Website) | Database-driven quiz website with AJAX | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 
-> 🔨 **Next up:** full MERN stack projects (authentication, REST APIs, MongoDB) and a DSA problem-solving repository in C++ and Java.
-
 ---
 
 ## 🎯 Learning Roadmap
