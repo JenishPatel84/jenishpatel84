@@ -89,34 +89,6 @@ public:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=JenishPatel84&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenishPatel84&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=JenishPatel84&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<br/>
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JenishPatel84&theme=tokyonight" alt="Profile details" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JenishPatel84&theme=tokyonight" alt="Repos per language" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=JenishPatel84&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JenishPatel84&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
-
-</div>
-
----
-
 ## 🎯 Learning Roadmap
 
 - [x] HTML, CSS, JavaScript fundamentals
