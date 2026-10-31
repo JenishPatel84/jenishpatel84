@@ -98,7 +98,16 @@ public:
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JenishPatel84&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=JenishPatel84&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br/>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JenishPatel84&theme=tokyonight" alt="Profile details" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JenishPatel84&theme=tokyonight" alt="Repos per language" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=JenishPatel84&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies" />
 
 <br/>
 
@@ -151,4 +160,3 @@ public:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
-
