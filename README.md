@@ -92,7 +92,7 @@ public:
 - [x] HTML, CSS, JavaScript fundamentals
 - [x] Bootstrap and responsive design
 - [x] PHP, MySQL and AJAX basics
-- [ ] React.js (components, hooks, routing)
+- [x] React.js (components, hooks, routing)
 - [ ] Node.js and Express.js REST APIs
 - [ ] MongoDB and Mongoose
 - [ ] Authentication (JWT) and deployment
